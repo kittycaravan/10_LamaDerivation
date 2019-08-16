@@ -2,4 +2,7 @@
 <resources>
     <dimen name="main_btn_width">200dp</dimen>
     <dimen name="main_btn_top_bot_margin">80dp</dimen>
+    <dimen name="word_list_title_margin_top">12dp</dimen>
+    <dimen name="word_list_list_margin_top">50dp</dimen>
+    <dimen name="word_list_title_sp">20dp</dimen>
 </resources>
