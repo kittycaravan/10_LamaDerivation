@@ -102,26 +102,26 @@ public class ActivityWordList extends AppCompatActivity {
      */
     private void loadWordListSuffix(){
         mItemsWord.clear(); // 초기화
-        mItemsWord.add(new ItemWord("er", "<명> 행위자", "employer", "고용주"));
-        mItemsWord.add(new ItemWord("ee", "<명> 대상자", "employee", "직원"));
-        mItemsWord.add(new ItemWord("ist", "<명> 행위자", "artist", "예술가"));
-        mItemsWord.add(new ItemWord("ant", "<명> 행위자", "assistant", "보조자"));
-        mItemsWord.add(new ItemWord("ary", "<명> 행위자", "secretary", "비서"));
-        mItemsWord.add(new ItemWord("ive", "<명> 행위자", "secretary", "비서"));
-        mItemsWord.add(new ItemWord("ion", "<명> 행위,성질,상태", "introduction", "소개"));
-        mItemsWord.add(new ItemWord("ment", "<명> 행위,성질,상태", "improvement", "개선"));
-        mItemsWord.add(new ItemWord("ness", "<명> 행위,성질,상태", "kindness", "친절함"));
-        mItemsWord.add(new ItemWord("ance", "<명> 행위,성질,상태", "endurance", "인내"));
-        mItemsWord.add(new ItemWord("al", "<명> 행위,성질,상태", "proposal", "제안"));
-        mItemsWord.add(new ItemWord("ure", "<명> 행위,성질,상태", "proposal", "제안"));
-        mItemsWord.add(new ItemWord("th", "<명> 행위,성질,상태", "strength", "힘"));
-        mItemsWord.add(new ItemWord("cy", "<명> 행위,성질,상태", "accuracy", "정확성"));
-        mItemsWord.add(new ItemWord("ty", "<명> 행위,성질,상태", "accuracy", "정확성"));
-        mItemsWord.add(new ItemWord("ry", "<명> 행위,업종,종류", "machinery", "기계류"));
-        mItemsWord.add(new ItemWord("ory", "<명> 장소", "laboratory", "연구실"));
-        mItemsWord.add(new ItemWord("ics", "<명> 학문", "economics", "경제학"));
-        mItemsWord.add(new ItemWord("ship", "<명> 자격, 특성", "membership", "회원 자격"));
-        mItemsWord.add(new ItemWord("ism", "<명> 주의, 특성", "optimism", "낙관주의"));
+        mItemsWord.add(new ItemWord("er", "<명>행위자", "employer", "고용주"));
+        mItemsWord.add(new ItemWord("ee", "<명>대상자", "employee", "직원"));
+        mItemsWord.add(new ItemWord("ist", "<명>행위자", "artist", "예술가"));
+        mItemsWord.add(new ItemWord("ant", "<명>행위자", "assistant", "보조자"));
+        mItemsWord.add(new ItemWord("ary", "<명>행위자", "secretary", "비서"));
+        mItemsWord.add(new ItemWord("ive", "<명>행위자", "secretary", "비서"));
+        mItemsWord.add(new ItemWord("ion", "<명>행위,성질,상태", "introduction", "소개"));
+        mItemsWord.add(new ItemWord("ment", "<명>행위,성질,상태", "improvement", "개선"));
+        mItemsWord.add(new ItemWord("ness", "<명>행위,성질,상태", "kindness", "친절함"));
+        mItemsWord.add(new ItemWord("ance", "<명>행위,성질,상태", "endurance", "인내"));
+        mItemsWord.add(new ItemWord("al", "<명>행위,성질,상태", "proposal", "제안"));
+        mItemsWord.add(new ItemWord("ure", "<명>행위,성질,상태", "proposal", "제안"));
+        mItemsWord.add(new ItemWord("th", "<명>행위,성질,상태", "strength", "힘"));
+        mItemsWord.add(new ItemWord("cy", "<명>행위,성질,상태", "accuracy", "정확성"));
+        mItemsWord.add(new ItemWord("ty", "<명>행위,성질,상태", "accuracy", "정확성"));
+        mItemsWord.add(new ItemWord("ry", "<명>행위,업종,종류", "machinery", "기계류"));
+        mItemsWord.add(new ItemWord("ory", "<명>장소", "laboratory", "연구실"));
+        mItemsWord.add(new ItemWord("ics", "<명>학문", "economics", "경제학"));
+        mItemsWord.add(new ItemWord("ship", "<명>자격, 특성", "membership", "회원 자격"));
+        mItemsWord.add(new ItemWord("ism", "<명>주의, 특성", "optimism", "낙관주의"));
         mItemsWord.add(new ItemWord("hood", "<명>시대[시기],관계", "childhood", "어린 시절"));
         mItemsWord.add(new ItemWord("ize", "<동>~이 되게 하다", "memorize", "암기하다"));
         mItemsWord.add(new ItemWord("ate", "<동>~하게 하다", "motivate", "동기를 부여하다"));
