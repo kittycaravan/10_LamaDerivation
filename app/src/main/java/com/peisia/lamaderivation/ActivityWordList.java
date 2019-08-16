@@ -54,7 +54,7 @@ public class ActivityWordList extends AppCompatActivity {
     private void loadWordListBestImportantRoot(){
         mItemsWord.clear(); // 초기화
         mItemsWord.add(new ItemWord("cap", "잡다", "capture", "포획하다"));
-        mItemsWord.add(new ItemWord("cap", "머리", "capture", "모자"));
+        mItemsWord.add(new ItemWord("cap", "머리", "cap", "모자"));
         mItemsWord.add(new ItemWord("cede", "가다", "process", "과정"));
         mItemsWord.add(new ItemWord("duc", "이끌다", "education", "교육"));
         mItemsWord.add(new ItemWord("fac", "만들다", "factory", "공장"));
@@ -143,7 +143,7 @@ public class ActivityWordList extends AppCompatActivity {
         mItemsWord.add(new ItemWord("ive", "<형>성질,성향", "childish", "아이 같은"));
         mItemsWord.add(new ItemWord("ly", "<부>방식", "fluently", "유창하게"));
         mItemsWord.add(new ItemWord("ward", "<부>방향", "eastward", "동쪽으로"));
-        mItemsWord.add(new ItemWord("way", "<부>방법,방향,정도", "anyway", "어쨋든"));
+        mItemsWord.add(new ItemWord("way", "<부>방법,방향,정도", "anyway", "어쨌든"));
     }
     /**
      * 4. 중요 접두사
