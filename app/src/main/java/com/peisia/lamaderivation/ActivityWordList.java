@@ -181,9 +181,9 @@ public class ActivityWordList extends AppCompatActivity {
         mItemsWord.add(new ItemWord("a", "아주, 아닌", "alike", "비슷한"));
         mItemsWord.add(new ItemWord("mono", "하나", "monorail", "모노레일"));
         mItemsWord.add(new ItemWord("uni", "하나", "uniform", "유니폼"));
-        mItemsWord.add(new ItemWord("bi", "둘", "bicyclee", "자전거"));
-        mItemsWord.add(new ItemWord("du", "둘", "bicyclee", "자전거"));
-        mItemsWord.add(new ItemWord("twi", "둘", "bicyclee", "자전거"));
+        mItemsWord.add(new ItemWord("bi", "둘", "bicycle", "자전거"));
+        mItemsWord.add(new ItemWord("du", "둘", "bicycle", "자전거"));
+        mItemsWord.add(new ItemWord("twi", "둘", "bicycle", "자전거"));
         mItemsWord.add(new ItemWord("tri", "셋", "triangle", "삼각형"));
         mItemsWord.add(new ItemWord("multi", "다수의", "multimedia", "멀티미디어"));
     }
