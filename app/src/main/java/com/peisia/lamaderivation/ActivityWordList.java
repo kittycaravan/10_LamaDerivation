@@ -333,7 +333,7 @@ public class ActivityWordList extends AppCompatActivity {
         mItemsWord.add(new ItemWord("pan", "빵", "company", "회사"));
         mItemsWord.add(new ItemWord("par", "동등한", "compare", "비교하다"));
         mItemsWord.add(new ItemWord("para", "옆에", "parallel", "평행인"));
-        mItemsWord.add(new ItemWord("part", "부분", "aprt", "부분, 일부"));
+        mItemsWord.add(new ItemWord("part", "부분", "part", "부분, 일부"));
         mItemsWord.add(new ItemWord("pass", "통과하다", "passenger", "승객"));
         mItemsWord.add(new ItemWord("path", "느끼다", "sympathy", "동정"));
         mItemsWord.add(new ItemWord("patr", "아버지", "patriot", "애국자"));
