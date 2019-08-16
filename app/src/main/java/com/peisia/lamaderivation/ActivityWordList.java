@@ -376,7 +376,7 @@ public class ActivityWordList extends AppCompatActivity {
         mItemsWord.add(new ItemWord("soph", "현명한", "philosophy", "철학"));
         mItemsWord.add(new ItemWord("spon", "약속하다", "sponsor", "후원자"));
         mItemsWord.add(new ItemWord("stick", "찌르다", "sticker", "스티커"));
-        mItemsWord.add(new ItemWord("strict", "팽팽하게 당기다", "strict", "염격한"));
+        mItemsWord.add(new ItemWord("strict", "팽팽하게 당기다", "strict", "엄격한"));
         mItemsWord.add(new ItemWord("struct", "세우다", "structure", "구조"));
         mItemsWord.add(new ItemWord("sult", "뛰어오르다", "insult", "모욕하다"));
         mItemsWord.add(new ItemWord("sum", "취하다", "assume", "추정하다"));
